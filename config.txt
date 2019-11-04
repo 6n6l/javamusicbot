@@ -1,5 +1,5 @@
-token=NjM5ODY1OTgwNDc4MTYwOTAx.Xbx3vw.7FQGak5SteJqlCjZvsoERI_fzkg
+token=NjQwODk1NzA4OTExNjMyNDE0.XcAjiA.WIv9f3vj5fNyeTpM8TsQR1g5p9c
 owner=462752734140039168
-prefix=La
+prefix=M
 stayinchannel=true
-songinstatus=false
+songinstatus=true
